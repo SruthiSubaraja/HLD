@@ -1,4 +1,4 @@
-hi# HIGH LEVEL DESIGN (HLD)
+# HIGH LEVEL DESIGN (HLD)
 # INTRODUCTION
 
 High-level design provides a view of the system at an abstract level. It shows how the major 
